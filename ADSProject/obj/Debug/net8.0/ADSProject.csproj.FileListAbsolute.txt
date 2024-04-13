@@ -1,0 +1,99 @@
+C:\Users\Dimas\Documents\Proyectos\Soluciones\ADSProject\ADSProject\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Dimas\Documents\Proyectos\Soluciones\ADSProject\ADSProject\bin\Debug\net8.0\appsettings.json
+C:\Users\Dimas\Documents\Proyectos\Soluciones\ADSProject\ADSProject\bin\Debug\net8.0\ADSProject.exe
+C:\Users\Dimas\Documents\Proyectos\Soluciones\ADSProject\ADSProject\bin\Debug\net8.0\ADSProject.deps.json
+C:\Users\Dimas\Documents\Proyectos\Soluciones\ADSProject\ADSProject\bin\Debug\net8.0\ADSProject.runtimeconfig.json
+C:\Users\Dimas\Documents\Proyectos\Soluciones\ADSProject\ADSProject\bin\Debug\net8.0\ADSProject.dll
+C:\Users\Dimas\Documents\Proyectos\Soluciones\ADSProject\ADSProject\bin\Debug\net8.0\ADSProject.pdb
+C:\Users\Dimas\Documents\Proyectos\Soluciones\ADSProject\ADSProject\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Dimas\Documents\Proyectos\Soluciones\ADSProject\ADSProject\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Dimas\Documents\Proyectos\Soluciones\ADSProject\ADSProject\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Dimas\Documents\Proyectos\Soluciones\ADSProject\ADSProject\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Dimas\Documents\Proyectos\Soluciones\ADSProject\ADSProject\obj\Debug\net8.0\ADSProject.csproj.AssemblyReference.cache
+C:\Users\Dimas\Documents\Proyectos\Soluciones\ADSProject\ADSProject\obj\Debug\net8.0\ADSProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dimas\Documents\Proyectos\Soluciones\ADSProject\ADSProject\obj\Debug\net8.0\ADSProject.AssemblyInfoInputs.cache
+C:\Users\Dimas\Documents\Proyectos\Soluciones\ADSProject\ADSProject\obj\Debug\net8.0\ADSProject.AssemblyInfo.cs
+C:\Users\Dimas\Documents\Proyectos\Soluciones\ADSProject\ADSProject\obj\Debug\net8.0\ADSProject.csproj.CoreCompileInputs.cache
+C:\Users\Dimas\Documents\Proyectos\Soluciones\ADSProject\ADSProject\obj\Debug\net8.0\ADSProject.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Dimas\Documents\Proyectos\Soluciones\ADSProject\ADSProject\obj\Debug\net8.0\ADSProject.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Dimas\Documents\Proyectos\Soluciones\ADSProject\ADSProject\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Dimas\Documents\Proyectos\Soluciones\ADSProject\ADSProject\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Dimas\Documents\Proyectos\Soluciones\ADSProject\ADSProject\obj\Debug\net8.0\staticwebassets\msbuild.ADSProject.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Dimas\Documents\Proyectos\Soluciones\ADSProject\ADSProject\obj\Debug\net8.0\staticwebassets\msbuild.build.ADSProject.props
+C:\Users\Dimas\Documents\Proyectos\Soluciones\ADSProject\ADSProject\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ADSProject.props
+C:\Users\Dimas\Documents\Proyectos\Soluciones\ADSProject\ADSProject\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ADSProject.props
+C:\Users\Dimas\Documents\Proyectos\Soluciones\ADSProject\ADSProject\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Dimas\Documents\Proyectos\Soluciones\ADSProject\ADSProject\obj\Debug\net8.0\scopedcss\bundle\ADSProject.styles.css
+C:\Users\Dimas\Documents\Proyectos\Soluciones\ADSProject\ADSProject\obj\Debug\net8.0\ADSProject.csproj.Up2Date
+C:\Users\Dimas\Documents\Proyectos\Soluciones\ADSProject\ADSProject\obj\Debug\net8.0\ADSProject.dll
+C:\Users\Dimas\Documents\Proyectos\Soluciones\ADSProject\ADSProject\obj\Debug\net8.0\refint\ADSProject.dll
+C:\Users\Dimas\Documents\Proyectos\Soluciones\ADSProject\ADSProject\obj\Debug\net8.0\ADSProject.pdb
+C:\Users\Dimas\Documents\Proyectos\Soluciones\ADSProject\ADSProject\obj\Debug\net8.0\ADSProject.genruntimeconfig.cache
+C:\Users\Dimas\Documents\Proyectos\Soluciones\ADSProject\ADSProject\obj\Debug\net8.0\ref\ADSProject.dll
+C:\Users\Dimas\Documents\Proyectos\Soluciones\ADSProject\ADSProject\obj\Debug\net8.0\ADSProject.sourcelink.json
+C:\Users\KJ\Downloads\ADSProject\ADSProject\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\KJ\Downloads\ADSProject\ADSProject\bin\Debug\net8.0\appsettings.json
+C:\Users\KJ\Downloads\ADSProject\ADSProject\bin\Debug\net8.0\ADSProject.exe
+C:\Users\KJ\Downloads\ADSProject\ADSProject\bin\Debug\net8.0\ADSProject.deps.json
+C:\Users\KJ\Downloads\ADSProject\ADSProject\bin\Debug\net8.0\ADSProject.runtimeconfig.json
+C:\Users\KJ\Downloads\ADSProject\ADSProject\bin\Debug\net8.0\ADSProject.dll
+C:\Users\KJ\Downloads\ADSProject\ADSProject\bin\Debug\net8.0\ADSProject.pdb
+C:\Users\KJ\Downloads\ADSProject\ADSProject\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\KJ\Downloads\ADSProject\ADSProject\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\KJ\Downloads\ADSProject\ADSProject\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\KJ\Downloads\ADSProject\ADSProject\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\KJ\Downloads\ADSProject\ADSProject\obj\Debug\net8.0\ADSProject.csproj.AssemblyReference.cache
+C:\Users\KJ\Downloads\ADSProject\ADSProject\obj\Debug\net8.0\ADSProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KJ\Downloads\ADSProject\ADSProject\obj\Debug\net8.0\ADSProject.AssemblyInfoInputs.cache
+C:\Users\KJ\Downloads\ADSProject\ADSProject\obj\Debug\net8.0\ADSProject.AssemblyInfo.cs
+C:\Users\KJ\Downloads\ADSProject\ADSProject\obj\Debug\net8.0\ADSProject.csproj.CoreCompileInputs.cache
+C:\Users\KJ\Downloads\ADSProject\ADSProject\obj\Debug\net8.0\ADSProject.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\KJ\Downloads\ADSProject\ADSProject\obj\Debug\net8.0\ADSProject.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\KJ\Downloads\ADSProject\ADSProject\obj\Debug\net8.0\ADSProject.sourcelink.json
+C:\Users\KJ\Downloads\ADSProject\ADSProject\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\KJ\Downloads\ADSProject\ADSProject\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\KJ\Downloads\ADSProject\ADSProject\obj\Debug\net8.0\staticwebassets\msbuild.ADSProject.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\KJ\Downloads\ADSProject\ADSProject\obj\Debug\net8.0\staticwebassets\msbuild.build.ADSProject.props
+C:\Users\KJ\Downloads\ADSProject\ADSProject\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ADSProject.props
+C:\Users\KJ\Downloads\ADSProject\ADSProject\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ADSProject.props
+C:\Users\KJ\Downloads\ADSProject\ADSProject\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\KJ\Downloads\ADSProject\ADSProject\obj\Debug\net8.0\scopedcss\bundle\ADSProject.styles.css
+C:\Users\KJ\Downloads\ADSProject\ADSProject\obj\Debug\net8.0\ADSProject.csproj.Up2Date
+C:\Users\KJ\Downloads\ADSProject\ADSProject\obj\Debug\net8.0\ADSProject.dll
+C:\Users\KJ\Downloads\ADSProject\ADSProject\obj\Debug\net8.0\refint\ADSProject.dll
+C:\Users\KJ\Downloads\ADSProject\ADSProject\obj\Debug\net8.0\ADSProject.pdb
+C:\Users\KJ\Downloads\ADSProject\ADSProject\obj\Debug\net8.0\ADSProject.genruntimeconfig.cache
+C:\Users\KJ\Downloads\ADSProject\ADSProject\obj\Debug\net8.0\ref\ADSProject.dll
+C:\Users\KJ\OneDrive - Universidad de Sonsonate\Escritorio\ADS GIT\ADSProject\ADSProject\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\KJ\OneDrive - Universidad de Sonsonate\Escritorio\ADS GIT\ADSProject\ADSProject\bin\Debug\net8.0\appsettings.json
+C:\Users\KJ\OneDrive - Universidad de Sonsonate\Escritorio\ADS GIT\ADSProject\ADSProject\bin\Debug\net8.0\ADSProject.exe
+C:\Users\KJ\OneDrive - Universidad de Sonsonate\Escritorio\ADS GIT\ADSProject\ADSProject\bin\Debug\net8.0\ADSProject.deps.json
+C:\Users\KJ\OneDrive - Universidad de Sonsonate\Escritorio\ADS GIT\ADSProject\ADSProject\bin\Debug\net8.0\ADSProject.runtimeconfig.json
+C:\Users\KJ\OneDrive - Universidad de Sonsonate\Escritorio\ADS GIT\ADSProject\ADSProject\bin\Debug\net8.0\ADSProject.dll
+C:\Users\KJ\OneDrive - Universidad de Sonsonate\Escritorio\ADS GIT\ADSProject\ADSProject\bin\Debug\net8.0\ADSProject.pdb
+C:\Users\KJ\OneDrive - Universidad de Sonsonate\Escritorio\ADS GIT\ADSProject\ADSProject\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\KJ\OneDrive - Universidad de Sonsonate\Escritorio\ADS GIT\ADSProject\ADSProject\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\KJ\OneDrive - Universidad de Sonsonate\Escritorio\ADS GIT\ADSProject\ADSProject\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\KJ\OneDrive - Universidad de Sonsonate\Escritorio\ADS GIT\ADSProject\ADSProject\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\KJ\OneDrive - Universidad de Sonsonate\Escritorio\ADS GIT\ADSProject\ADSProject\obj\Debug\net8.0\ADSProject.csproj.AssemblyReference.cache
+C:\Users\KJ\OneDrive - Universidad de Sonsonate\Escritorio\ADS GIT\ADSProject\ADSProject\obj\Debug\net8.0\ADSProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KJ\OneDrive - Universidad de Sonsonate\Escritorio\ADS GIT\ADSProject\ADSProject\obj\Debug\net8.0\ADSProject.AssemblyInfoInputs.cache
+C:\Users\KJ\OneDrive - Universidad de Sonsonate\Escritorio\ADS GIT\ADSProject\ADSProject\obj\Debug\net8.0\ADSProject.AssemblyInfo.cs
+C:\Users\KJ\OneDrive - Universidad de Sonsonate\Escritorio\ADS GIT\ADSProject\ADSProject\obj\Debug\net8.0\ADSProject.csproj.CoreCompileInputs.cache
+C:\Users\KJ\OneDrive - Universidad de Sonsonate\Escritorio\ADS GIT\ADSProject\ADSProject\obj\Debug\net8.0\ADSProject.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\KJ\OneDrive - Universidad de Sonsonate\Escritorio\ADS GIT\ADSProject\ADSProject\obj\Debug\net8.0\ADSProject.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\KJ\OneDrive - Universidad de Sonsonate\Escritorio\ADS GIT\ADSProject\ADSProject\obj\Debug\net8.0\ADSProject.sourcelink.json
+C:\Users\KJ\OneDrive - Universidad de Sonsonate\Escritorio\ADS GIT\ADSProject\ADSProject\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\KJ\OneDrive - Universidad de Sonsonate\Escritorio\ADS GIT\ADSProject\ADSProject\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\KJ\OneDrive - Universidad de Sonsonate\Escritorio\ADS GIT\ADSProject\ADSProject\obj\Debug\net8.0\staticwebassets\msbuild.ADSProject.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\KJ\OneDrive - Universidad de Sonsonate\Escritorio\ADS GIT\ADSProject\ADSProject\obj\Debug\net8.0\staticwebassets\msbuild.build.ADSProject.props
+C:\Users\KJ\OneDrive - Universidad de Sonsonate\Escritorio\ADS GIT\ADSProject\ADSProject\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ADSProject.props
+C:\Users\KJ\OneDrive - Universidad de Sonsonate\Escritorio\ADS GIT\ADSProject\ADSProject\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ADSProject.props
+C:\Users\KJ\OneDrive - Universidad de Sonsonate\Escritorio\ADS GIT\ADSProject\ADSProject\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\KJ\OneDrive - Universidad de Sonsonate\Escritorio\ADS GIT\ADSProject\ADSProject\obj\Debug\net8.0\scopedcss\bundle\ADSProject.styles.css
+C:\Users\KJ\OneDrive - Universidad de Sonsonate\Escritorio\ADS GIT\ADSProject\ADSProject\obj\Debug\net8.0\ADSProject.csproj.Up2Date
+C:\Users\KJ\OneDrive - Universidad de Sonsonate\Escritorio\ADS GIT\ADSProject\ADSProject\obj\Debug\net8.0\ADSProject.dll
+C:\Users\KJ\OneDrive - Universidad de Sonsonate\Escritorio\ADS GIT\ADSProject\ADSProject\obj\Debug\net8.0\refint\ADSProject.dll
+C:\Users\KJ\OneDrive - Universidad de Sonsonate\Escritorio\ADS GIT\ADSProject\ADSProject\obj\Debug\net8.0\ADSProject.pdb
+C:\Users\KJ\OneDrive - Universidad de Sonsonate\Escritorio\ADS GIT\ADSProject\ADSProject\obj\Debug\net8.0\ADSProject.genruntimeconfig.cache
+C:\Users\KJ\OneDrive - Universidad de Sonsonate\Escritorio\ADS GIT\ADSProject\ADSProject\obj\Debug\net8.0\ref\ADSProject.dll
