@@ -78,7 +78,7 @@ namespace ADSProject.Repositories
             try
             {
                 // Buscamos y asignamos el objeto estudiante
-                Estudiante estudiante = lstEstudiantes.FirstOrDefault(tmp => tmp.IdEstudiante == idEstudiante);
+                var estudiante = lstEstudiantes.FirstOrDefault(tmp => tmp.IdEstudiante == idEstudiante);
 
                 return estudiante;
             }
