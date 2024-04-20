@@ -3,6 +3,7 @@ using ADSProject.DB;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 #nullable disable
@@ -10,9 +11,11 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace ADSProject.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    partial class ApplicationDbContextModelSnapshot : ModelSnapshot
+    [Migration("20240420091221_Carreras")]
+    partial class Carreras
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -75,80 +78,6 @@ namespace ADSProject.Migrations
                     b.HasKey("IdEstudiante");
 
                     b.ToTable("Estudiantes");
-                });
-
-            modelBuilder.Entity("ADSProject.Models.Grupo", b =>
-                {
-                    b.Property<int>("IdGrupo")
-                        .ValueGeneratedOnAdd()
-                        .HasColumnType("int");
-
-                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("IdGrupo"));
-
-                    b.Property<int>("Anio")
-                        .HasColumnType("int");
-
-                    b.Property<int>("Ciclo")
-                        .HasColumnType("int");
-
-                    b.Property<int>("IdCarrera")
-                        .HasColumnType("int");
-
-                    b.Property<int>("IdMateria")
-                        .HasColumnType("int");
-
-                    b.Property<int>("IdProfesor")
-                        .HasColumnType("int");
-
-                    b.HasKey("IdGrupo");
-
-                    b.ToTable("Grupos");
-                });
-
-            modelBuilder.Entity("ADSProject.Models.Materia", b =>
-                {
-                    b.Property<int>("IdMateria")
-                        .ValueGeneratedOnAdd()
-                        .HasColumnType("int");
-
-                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("IdMateria"));
-
-                    b.Property<string>("NombreMateria")
-                        .IsRequired()
-                        .HasMaxLength(50)
-                        .HasColumnType("nvarchar(50)");
-
-                    b.HasKey("IdMateria");
-
-                    b.ToTable("Materias");
-                });
-
-            modelBuilder.Entity("ADSProject.Models.Profesor", b =>
-                {
-                    b.Property<int>("IdProfesor")
-                        .ValueGeneratedOnAdd()
-                        .HasColumnType("int");
-
-                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("IdProfesor"));
-
-                    b.Property<string>("ApellidosProfesor")
-                        .IsRequired()
-                        .HasMaxLength(50)
-                        .HasColumnType("nvarchar(50)");
-
-                    b.Property<string>("Email")
-                        .IsRequired()
-                        .HasMaxLength(254)
-                        .HasColumnType("nvarchar(254)");
-
-                    b.Property<string>("NombresProfesor")
-                        .IsRequired()
-                        .HasMaxLength(50)
-                        .HasColumnType("nvarchar(50)");
-
-                    b.HasKey("IdProfesor");
-
-                    b.ToTable("Profesores");
                 });
 #pragma warning restore 612, 618
         }

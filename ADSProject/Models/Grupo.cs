@@ -1,8 +1,10 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿using ADSProject.Interfaces;
+using Microsoft.EntityFrameworkCore;
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 namespace ADSProject.Models
 {
+    [PrimaryKey(nameof(IdGrupo))]
     public class Grupo
     {
         public int IdGrupo { get; set; }
