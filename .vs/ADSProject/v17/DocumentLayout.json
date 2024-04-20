@@ -1,20 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\KJ\\OneDrive - Universidad de Sonsonate\\Escritorio\\ADS GIT\\ADSProject\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{A929E271-08D8-4F6C-8317-C6247A6C71F9}|ADSProject\\ADSProject.csproj|c:\\users\\kj\\onedrive - universidad de sonsonate\\escritorio\\ads git\\adsproject\\adsproject\\models\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A929E271-08D8-4F6C-8317-C6247A6C71F9}|ADSProject\\ADSProject.csproj|solutionrelative:adsproject\\models\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A929E271-08D8-4F6C-8317-C6247A6C71F9}|ADSProject\\ADSProject.csproj|c:\\users\\kj\\onedrive - universidad de sonsonate\\escritorio\\ads git\\adsproject\\adsproject\\controllers\\estudiantescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A929E271-08D8-4F6C-8317-C6247A6C71F9}|ADSProject\\ADSProject.csproj|solutionrelative:adsproject\\controllers\\estudiantescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A929E271-08D8-4F6C-8317-C6247A6C71F9}|ADSProject\\ADSProject.csproj|c:\\users\\kj\\onedrive - universidad de sonsonate\\escritorio\\ads git\\adsproject\\adsproject\\repositories\\estudianterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A929E271-08D8-4F6C-8317-C6247A6C71F9}|ADSProject\\ADSProject.csproj|solutionrelative:adsproject\\repositories\\estudianterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -22,7 +9,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -31,45 +18,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "EstudianteRepository.cs",
-              "DocumentMoniker": "C:\\Users\\KJ\\OneDrive - Universidad de Sonsonate\\Escritorio\\ADS GIT\\ADSProject\\ADSProject\\Repositories\\EstudianteRepository.cs",
-              "RelativeDocumentMoniker": "ADSProject\\Repositories\\EstudianteRepository.cs",
-              "ToolTip": "C:\\Users\\KJ\\OneDrive - Universidad de Sonsonate\\Escritorio\\ADS GIT\\ADSProject\\ADSProject\\Repositories\\EstudianteRepository.cs",
-              "RelativeToolTip": "ADSProject\\Repositories\\EstudianteRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABQAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-20T05:33:48.14Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "EstudiantesController.cs",
-              "DocumentMoniker": "C:\\Users\\KJ\\OneDrive - Universidad de Sonsonate\\Escritorio\\ADS GIT\\ADSProject\\ADSProject\\Controllers\\EstudiantesController.cs",
-              "RelativeDocumentMoniker": "ADSProject\\Controllers\\EstudiantesController.cs",
-              "ToolTip": "C:\\Users\\KJ\\OneDrive - Universidad de Sonsonate\\Escritorio\\ADS GIT\\ADSProject\\ADSProject\\Controllers\\EstudiantesController.cs",
-              "RelativeToolTip": "ADSProject\\Controllers\\EstudiantesController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEAAAAARAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-20T03:09:09.993Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Estudiante.cs",
-              "DocumentMoniker": "C:\\Users\\KJ\\OneDrive - Universidad de Sonsonate\\Escritorio\\ADS GIT\\ADSProject\\ADSProject\\Models\\Estudiante.cs",
-              "RelativeDocumentMoniker": "ADSProject\\Models\\Estudiante.cs",
-              "ToolTip": "C:\\Users\\KJ\\OneDrive - Universidad de Sonsonate\\Escritorio\\ADS GIT\\ADSProject\\ADSProject\\Models\\Estudiante.cs",
-              "RelativeToolTip": "ADSProject\\Models\\Estudiante.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-20T02:43:07.973Z",
-              "EditorCaption": ""
             }
           ]
         }
