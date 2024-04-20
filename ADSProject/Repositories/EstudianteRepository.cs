@@ -7,9 +7,9 @@ namespace ADSProject.Repositories
     {
         private List<Estudiante> lstEstudiantes = new List<Estudiante>
         {
-            new Estudiante{ IdEstudiante = 1, NombresEstudiante = "JUAN CARLOS",
-            ApellidosEstudiante = "PEREZ SOSA", CodigoEstudiante = "PS24-I04-002",
-            CorreoEstudiante = "PS24I04002@usonsonate.edu.sv"
+            new Estudiante{ IdEstudiante = 1, NombresEstudiante = "KEVIN JOSE",
+            ApellidosEstudiante = "TORRES PINEDA", CodigoEstudiante = "TP17-I04-001",
+            CorreoEstudiante = "TP17I04001@usonsonate.edu.sv"
             }
         };
         public int ActualizarEstudiante(int idEstudiante, Estudiante estudiante)
