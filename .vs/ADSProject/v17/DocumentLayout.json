@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\KJ\\OneDrive - Universidad de Sonsonate\\Escritorio\\ADS GIT\\ADSProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A929E271-08D8-4F6C-8317-C6247A6C71F9}|ADSProject\\ADSProject.csproj|c:\\users\\kj\\onedrive - universidad de sonsonate\\escritorio\\ads git\\adsproject\\adsproject\\controllers\\materiascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A929E271-08D8-4F6C-8317-C6247A6C71F9}|ADSProject\\ADSProject.csproj|solutionrelative:adsproject\\controllers\\materiascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A929E271-08D8-4F6C-8317-C6247A6C71F9}|ADSProject\\ADSProject.csproj|c:\\users\\kj\\onedrive - universidad de sonsonate\\escritorio\\ads git\\adsproject\\adsproject\\controllers\\gruposcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A929E271-08D8-4F6C-8317-C6247A6C71F9}|ADSProject\\ADSProject.csproj|solutionrelative:adsproject\\controllers\\gruposcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A929E271-08D8-4F6C-8317-C6247A6C71F9}|ADSProject\\ADSProject.csproj|c:\\users\\kj\\onedrive - universidad de sonsonate\\escritorio\\ads git\\adsproject\\adsproject\\controllers\\estudiantescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -18,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,6 +30,19 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GruposController.cs",
+              "DocumentMoniker": "C:\\Users\\KJ\\OneDrive - Universidad de Sonsonate\\Escritorio\\ADS GIT\\ADSProject\\ADSProject\\Controllers\\GruposController.cs",
+              "RelativeDocumentMoniker": "ADSProject\\Controllers\\GruposController.cs",
+              "ToolTip": "C:\\Users\\KJ\\OneDrive - Universidad de Sonsonate\\Escritorio\\ADS GIT\\ADSProject\\ADSProject\\Controllers\\GruposController.cs",
+              "RelativeToolTip": "ADSProject\\Controllers\\GruposController.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAUwCAAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T06:15:10.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
               "Title": "EstudiantesController.cs",
               "DocumentMoniker": "C:\\Users\\KJ\\OneDrive - Universidad de Sonsonate\\Escritorio\\ADS GIT\\ADSProject\\ADSProject\\Controllers\\EstudiantesController.cs",
@@ -38,20 +51,7 @@
               "RelativeToolTip": "ADSProject\\Controllers\\EstudiantesController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-20T06:12:16.765Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MateriasController.cs",
-              "DocumentMoniker": "C:\\Users\\KJ\\OneDrive - Universidad de Sonsonate\\Escritorio\\ADS GIT\\ADSProject\\ADSProject\\Controllers\\MateriasController.cs",
-              "RelativeDocumentMoniker": "ADSProject\\Controllers\\MateriasController.cs",
-              "ToolTip": "C:\\Users\\KJ\\OneDrive - Universidad de Sonsonate\\Escritorio\\ADS GIT\\ADSProject\\ADSProject\\Controllers\\MateriasController.cs",
-              "RelativeToolTip": "ADSProject\\Controllers\\MateriasController.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAQwEEAAAARAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-20T06:12:10.949Z",
+              "WhenOpened": "2024-04-20T06:15:06.806Z",
               "EditorCaption": ""
             }
           ]
